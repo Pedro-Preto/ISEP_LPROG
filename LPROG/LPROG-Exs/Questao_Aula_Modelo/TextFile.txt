@@ -1,0 +1,9 @@
+ans23 "Antonio Silva"
+AAA32 3 125 12
+MAT33 "Matematica I" 1 445 8
+ANF42 "Analise Financeira" 5 12 4
+abc34
+ABC33 2 55 12
+XYZ "Materias" 125
+NHL96 "Circuitos Eletricos" 2 178 9
+FMI69 "Teoria de Emprestimos" 5 22 3

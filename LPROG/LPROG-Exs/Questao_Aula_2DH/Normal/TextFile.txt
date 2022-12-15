@@ -1,0 +1,7 @@
+C101 Compras 30-25-2020 0900 50 S32 Fagundes,Marcelo Venancio,Alice Pousada,Felisberto
+
+D053 Design 21-06-2020 1430 49 S12 Silva,Maria Nascimento,Eusebio Campos,Manuel Heredia,Justino
+
+G112 14-05-2020 1030 45 S80 Venancio,Alice Silva,Maria Paiva,Rui Sousa,João
+
+P221 Produção 12-09-2020 1700 56 S12 Paiva,Rui Sousa,João Santos,Jose Dias,Mario Melo,David

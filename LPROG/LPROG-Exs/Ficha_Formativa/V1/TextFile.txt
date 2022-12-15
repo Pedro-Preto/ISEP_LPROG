@@ -1,0 +1,8 @@
+ISEP 101 "rua de sao joao"
+"Pedro Preto" 1000 "Eng informatica"
+ESE 102 "rua da maia" 
+"Patricia Barbosa" 2000 "Enfermagem"
+ISCAP 103 "rua da gaia"
+"Pedro Garcia" 3000 "Eng informatica"
+ISEP 1004 "rua de zero"
+"Ines Preto" 1000 "Gestao"

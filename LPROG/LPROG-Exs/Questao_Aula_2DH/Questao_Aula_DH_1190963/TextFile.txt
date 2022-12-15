@@ -1,0 +1,4 @@
+Carlos 12/04/2021 912345678 carlos@ipp.pt Pessoal "ligar apenas a partir das 18h"
+Teresa 02/01/2028 939876543 teresa123@isep.pt Trabalho
+Teresa 917865422 teresa123@isep.pt Outro "Segundo telemovel da Teresa"
+Samuel 24/08/2025 965678910 samuel@dei.pt Pessoal
